@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-24T22:42:38Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="46eaaf74-00b7-4ad1-81fd-000a6316e454"><c:Value>99990470-2d91-4a67-a319-e367efa107ed</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="14f41ff8-5e9b-4868-9efc-ded51a402307"><c:Title>Bridge 5</c:Title><c:FormattedName>Kaladin Stormblessed</c:FormattedName><c:FamilyName>Stormblessed</c:FamilyName><c:GivenName>Kaladin</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="c7d3d645-6e7b-4db3-8fd1-cc4b45a2326f"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
